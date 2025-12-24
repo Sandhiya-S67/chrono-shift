@@ -1,6 +1,6 @@
 # Chrono Shift
 
-**Chrono Shift** is an interactive arcade-style game developed for **Codédex Game Jam 2025**, based on the theme **“The Changing of Time.”**  
+**Chrono Shift** is an interactive arcade-style game developed based on the theme **“The Changing of Time.”**  
 The game places time manipulation at the center of gameplay, challenging players to balance reflexes, strategy, and resource management.
 
 ---
